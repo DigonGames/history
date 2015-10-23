@@ -12,7 +12,7 @@ This fork is just a quick and dirty fix that adds a try catch where it's trying 
 
 Run:
 
-  $ npm run build
+    $ npm run build
 
 and copy `umd/History.js` to your project.
 
